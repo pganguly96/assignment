@@ -1,1 +1,0 @@
-/home/pranay/Downloads/seg/MaaDurga.py
